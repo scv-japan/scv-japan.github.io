@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cache-file</key>
+	<string>web.jpg</string>
+	<key>caption</key>
+	<string>DSCF0023</string>
+	<key>image-file</key>
+	<string>original.jpg</string>
+	<key>metadata</key>
+	<dict>
+		<key>cached-image-size</key>
+		<integer>800</integer>
+		<key>display-name</key>
+		<string>DSCF0023</string>
+		<key>display-name-is-finalized</key>
+		<string>YES</string>
+		<key>guid</key>
+		<string>09F3A6C0-6DDC-4CFB-A272-661F64EB2454</string>
+	</dict>
+	<key>padding</key>
+	<real>0.0</real>
+	<key>thumb-file</key>
+	<string>thumb.jpg</string>
+	<key>type</key>
+	<string>image</string>
+	<key>verticalAlignment</key>
+	<real>0.0</real>
+</dict>
+</plist>

@@ -1,0 +1,83 @@
+\documentstyle[12pt]{jarticle}
+\begin{document}
+\setlength{\textheight}{574pt}
+\setlength{\textwidth}{432pt}
+\setlength{\oddsidemargin}{18pt}
+\setlength{\topmargin}{14pt}
+\setlength{\evensidemargin}{18pt}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{remark}{Remark}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{problem}{Problem}
+\newtheorem{proposition}{Proposition}[section]
+\title{多変数関数論葉山シンポジウム９９プログラム}
+\author{}
+\date{}
+\maketitle
+17th \\
+15:00-15:50  C. Laurent  \\
+16:00-16:50  Y. Aihara  \\
+17:00-17:50  M. Tomari  \\
+18th 
+8:30-9:20 K.T. Kim  \\
+9:30-10:20 S. Cho \\
+10:30- 11:20 G. Komatsu \\
+
+13:00-13:50 Vo-Van Tan  \\
+14:00-14:50 E. Bedford  \\
+15:00-15:50 K. Maegawa  \\ 
+16:10-17:00 M. Jonsson \\ 
+17:10-18:00 M. Abate  \\
+19th 
+9:00-9:50 Y. Honda  \\ 
+10:00-10:50 A. Futaki \\
+11:00- 11:50 N. Mok   \\
+
+13:00-13:50 K. Diedrich \\ 
+14:00-14:50 T. Ohsawa \\
+15:00-15:50  K. Miyazawa \\  
+16:10-17:00 I-H. Tsai \\
+17:10-18:00  J. Winkelman  \\
+
+20th
+ 
+9:00-9:50  C. Epstein \\
+10:00-10:50 W. Klingenberg \\ 
+11:00- 11:50 Y.-T. Siu  \vspace{10mm}\\
+
+タイトル 
+\begin{enumerate}
+\item 相原義弘 (沼津高専):　Finiteness theorems for meromorphic mappings under the condition on the
+preimages of divisors
+\item M. Abate (Rome Univ.)The residual index and dynamics of holomorphic maps tangent
+to the identity".
+\item E. Bedford ( Indiana University ) TBA,
+\item S. Cho ( Sogang University ) TBA ,
+\item C.　Diedrich　(Univ. of Wuppertal) TBA 
+\item  C. Epstein ( University of Pennsilvania ) : Filling pseudoconcave holes 
+\item 本多宣博(広島大学理学部) Meromorphicity of actions on compact twistor spaces,　
+\item 二木　昭人（東京工業大学理学部）A character of the automorphism group associated with K\"{a}hler classes
+\item M. Jonsson ( University of Michigan ) ：Saddle type behavior for holomorphic mappings of ${\bf  P}^{2}$
+, 
+\item W.Klingenberg ( Humboldt University of Berlin ) ; Flow of real hypersurfaces by the trace of the Levi form,
+\item 小松　玄 (大阪大学理学部)Sobolev-Bergman kernels in strictly pseudoconvex domains
+(the case of negative order),
+\item  C. Laurent ( Institut Fourier ) Dolbeault isomorphism in CR manifolds,
+\item  宮沢　一久 (名古屋大学多元数理)On the n-completeness of coverings of proper families of
+analytic spaces, 
+\item N. Mok : Rigidity under K\"ahler Deformation of certain Rational Homogeneous  Manifolds of Picard Number 1
+( University of Hong Kong ), 
+\item 大沢　健夫 (名古屋大学多元数理) Extention and Division for Semipositive Bundles with $L^{2}$-condition,
+\item 前川 和俊：　On shift-like mappings of dynamical degree golden ratio of ${\bf C}^{3}$.　 
+\item Y. T. Siu  TBA 
+(Harvard University ), 
+\item Vo-Van Tan ( Suffolk University )　 An analogue of Hartshorne and Serre problem for 1-convex surfaces,
+ \item 泊　昌孝 (金沢大学理学部) plurigenera of normal isolated singularities and  filtered blowing-ups, 
+\item I. H. Tsai ( National Taiwan University ) Finiteness and effective bounds
+in birational geometry".
+\item  J. Winkelmann （ University of Basel）TBA
+\end{enumerate}
+\end{document}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cache-file</key>
+	<string>web.jpg</string>
+	<key>caption</key>
+	<string>noguchi60A4</string>
+	<key>image-file</key>
+	<string>original.jpg</string>
+	<key>metadata</key>
+	<dict>
+		<key>cached-image-size</key>
+		<integer>0</integer>
+		<key>display-name</key>
+		<string>noguchi60A4</string>
+		<key>display-name-is-finalized</key>
+		<string>YES</string>
+		<key>guid</key>
+		<string>D30217AE-9342-443E-8AF7-0D43647D24D8</string>
+	</dict>
+	<key>padding</key>
+	<real>0.0</real>
+	<key>thumb-file</key>
+	<string>thumb.jpg</string>
+	<key>type</key>
+	<string>image</string>
+	<key>verticalAlignment</key>
+	<real>0.0</real>
+</dict>
+</plist>

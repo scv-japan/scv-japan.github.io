@@ -1,0 +1,280 @@
+\documentclass[a4paper]{article}
+\usepackage[a4paper,top=24mm,bottom=28mm,left=26mm,right=26mm]{geometry}
+\usepackage{helvet}
+\usepackage{amsmath,amssymb}
+\renewcommand\baselinestretch{1.05}
+
+\newcommand{\abs}[4]{
+\begin{flushleft}\textbf{#1} (#2)  \\ \smallskip
+\textit{#3}
+\end{flushleft}
+
+#4
+
+\vspace{1em}
+}
+
+
+
+\newtheorem{theorem}{Theorem}
+
+\begin{document}
+\begin{flushleft}
+	\Large\sffamily\textbf{Abstracts}
+\end{flushleft}
+
+
+\vspace{1em}
+
+\abs{Masanori Adachi}{Tokyo University of Science}
+{Curvature restrictions for Levi-flat real hypersurfaces in complex projective planes}
+{
+We study curvature restrictions of Levi-flat real hypersurfaces in complex projective planes, whose existence is in question. We focus on its totally real Ricci curvature, the Ricci curvature of the real hypersurface in the direction of the Reeb vector field, and show that it cannot be sater than $-4$ along a Levi-flat real hypersurface. We rely on a finiteness theorem for the space of square integrable holomorphic 2-forms on the complement of the Levi-flat real hypersurface, where the curvature plays the role of the size of the infinitesimal holonomy of its Levi foliation. This talk is based on joint work with Judith Brinkschulte.}
+
+
+\abs{ Junyan Cao}{Jussieu}{
+Kodaira dimension of algebraic fiber spaces over abelian varieties or surfaces}
+{ Let $p: X\rightarrow Y$ be a fibration between two projective manifolds. The Iitaka conjecture 
+states that
+$$\kappa (X) \geq \kappa (Y)+\kappa (X/Y) ,$$
+where $\kappa (X)$ is the Kodaira dimension of $X$ and $\kappa (X/Y)$ is the Kodaira dimension of the general fiber. By using mainly the recent work of M. P\u{a}un and S. Takayama about the positivity of relatively canonical bundles,  we give a proof of the Iitaka conjecture for algebraic fiber spaces over abelian varieties or over surfaces. This a joint work with M. P\u{a}un.}
+
+\abs{ Tristan Collins}{Harvard University}
+{Non-collapsed limits of Calabi-Yau manifolds}
+{We will discuss a geometric characterization of classes of positive volume on the boundary of the K\"ahler cone of a compact Kahler manifold. The main ingredient is a numerical characterization of the gaugmented base locush for big and nef $(1,1)$-classes, extending results of Nakamaye, and
+ Ein-Lazarsfeld-Mustata-Nakamaye-Popa. We will also discuss further extensions of this notion to big, but not nef, $(1,1)$-classes. As an application, we will discuss optimal regularity for Calabi-Yau metrics as the Kahler class degenerates. This work is joint with Valentino Tosatti.}
+
+\abs{ Tamas Darvas }{University of Maryland}{
+Metric geometry on the space of K\"{a}hler metrics }{
+abstract: We introduce the $L^p$-Mabuchi Finsler structure on the space of K\"ahler metrics. We argue that the completion of the associated path length metric structures are well known objects from finite energy pluripotential theory. Time permitting we will mention how the use of the arising metric geometry is useful in settling questions about the long time behavior of the Calabi flow and $J$-properness.
+}
+
+\abs{Gopal Datt}{University of Delhi}{
+Quasinormality in several complex variables
+}{
+In this talk, we will discuss a renormalization result for quasinormality as well as for weak normality. Roughly speaking it says that for a non quasinormal family of meromorphic mappings, we get a
+ non-constant meromorphic map in the limit, after rescaling of the family. We also discuss a quasinormality criterion concerning shared hyper surfaces.
+}
+
+\abs{ Philippe Eyssidieux}{Institute Fourier, Grenoble}{
+ Viscosity solutions of the K\"{a}hler-Ricci flow and the Song-Tian
+canonical metric }{ 
+From a joint work with Guedj and Zeriahi.
+Studying the K\"ahler-Ricci ow on mildly singular varieties, one is naturally led
+to study weak solutions of degenerate parabolic complex Monge-Amp\`{e}re equations.
+The purpose of the talk is to explain an approach for degenerate complex Monge-Amp\`{e}re flows based on the ideas of viscosity solutions to degenerate elliptic or and parabolic equations. We apply this method to the the long-term behavior of the K\"{a}hler-Ricci flow, giving an alternate, more general, approoach to Song-Tian's results.}
+
+
+\abs{ Ryushi Goto}{Osaka University}{
+Stratified flat structures on moduli spaces of generalized complex surfaces }{
+We show that a logarithmic generalized complex surface with smooth elliptic curve as type changing locus has unobstructed deformations which are parametrized by the second de Rham cohomology group of the complement of type changing locus. Investigating the cases of type changing loci with singularities, we construct moduli spaces of generalized del Pezzo surfaces. 
+A moduli space of generalized complex surfaces admits a stratification consisting of strata which are given by type changing locus with a fixed number of singularities such as nodes and cusps.
+Then it turns out that a moduli space of generalized complex surfaces has ``stratified flat structure", that is, 
+all strata have the flat structure given by an integral lattice the second de Rham cohomology group. 
+We also discuss the correspondence between generalized complex surfaces and noncommutaive complex surfaces. }
+
+
+\abs{ 
+Tobias Harz}{POSTEC}{
+On smoothing of bounded plurisubharmonic functions }{
+I will talk about work in progress concerning the smoothing of bounded (from above) plurisubharmonic functions on unbounded domains in $\mathbb{C}^n$, $n \ge 2$. In particular, I will present the following result. \smallskip
+
+\noindent \textit{There exist a pseudoconvex domain $\Omega \subset \mathbb{C}^2$ and a nonempty open set $U \subset \Omega$ such that the following assertions hold true: 
+\begin{enumerate}
+ \item There exists a function $\varphi \in \mathcal{PSH}(\Omega) \cap \mathcal{C}^0(\Omega)$ such that $\varphi < 0$ on $\Omega$ and $\varphi$ is strictly plurisubharmonic on $U$.
+ \item Every function $\varphi \in \mathcal{PSH}(\Omega) \cap \mathcal{C}^1(\Omega)$ such that $\varphi < 0$ on $\Omega$ is constant on $U$. 
+\end{enumerate}}
+}
+
+
+\abs{ Kang-Tae Kim}{POSTECH}{
+Genelized Forelli theorems}{
+Our study has been inspired by the following
+
+\begin{theorem} (Forelli [2], 1977) If a complex-valued function $f$ from the open unit ball $B^{n}$ in $\mathbb{C}^{n}$ satisfes the conditions
+\begin{enumerate}
+\item[(A)] $f$ is $C^{\infty}(0)$, i.e., $\forall k$, $\exists U = U(0)$, $f\in  C^{k}(U)$.
+
+\item[(B)] $\zeta\to f(\zeta v)$ is holomorphic in $\zeta \in B^1$ for every $v  \in \mathbb{C}^{n}$ with $\parallel v\parallel  = 1$,
+\end{enumerate} 
+Then $f : B^{n}\to \mathbb{C}$ is holomorphic.
+\end{theorem}
+
+This theorem was often mentioned as impossible to generalize, mainly because they tried to improve (A). Then E. Chirka [1] showed that (B) can be improved, in complex dimension 2, with the more relaxed condition that the function f is holomorphic along a ``singular fibration'' of $B^2$ passing through the origin ``transversely''. Then he posed the question whether his theorem can be proved in all dimensions.
+
+In [3], we obtained the all dimensional theorem predicted by Chirka:
+
+\begin{theorem} (Chirka/Joo-Kim-Schmalz) If a domain $\Omega\subset\mathbb{C}^n$ contains the origin and admits a $C^1$ radial type foliation by holomorphic discs, and if $f\colon\Omega\to\mathbb{C}$ belongs to $C^\infty(0)\cap C^1(\Omega)$ with the restriction to each leaf holomorphic, then $f$ itself is holomorphic.
+\end{theorem}
+On the other hand, a natural re-interpretation of Forellifs condition (B) is
+that $\overline{E}f = 0$ where $E = \sum_{i=1}^{n}z_{i}\frac{\partial}{\partial z_{i}}$. With this viewpoint, it is natural to try to replace the condition $(B)$ by 
+\begin{equation}\tag{B${}^\prime$}
+Xf = 0 
+\end{equation}
+where $X$ is a holomorphic vector field vanishing at $0$, and ask the following
+
+\medskip
+\noindent
+{\bf Question} Which X makes the statement ``If $f : B^{n}\to\mathbb{C}$ satisfes (A) and (B${}^\prime$), then f is holomorphic.'' remain valid?
+\\
+
+
+\smallskip
+
+In the series of papers [5, 4], we obtained
+
+\begin{theorem} (Joo-Kim-Poletsky-Schmalz) If a function $F : B^{n}\to \mathbb{C}$ satisfies
+
+\begin{enumerate}
+\item[(1)] $f\in C^{\infty}(0)$, and
+\item[(2)] $F$ is holomorphic along every complex integral curve of an aligned holomorphic vector field, 
+\end{enumerate}
+then $F$ is holomorphic on $B^{n}$.
+\end{theorem}
+
+
+\noindent{\bf References}
+
+\noindent
+[1] E. Chirka: Variations of Hartogs' theorems, Tr. Mat. Inst. Steklova 253, 232-240 (2006)
+
+\noindent
+[2]  F. Forelli: Pluriharmonicity in terms of harmonic slices, Math. Scand. 41, 358-364 (1977)
+
+\noindent
+[3] J.-C. Joo, K.-T. Kim, G. Schmalz: Math. Ann. 355-3, 1171-1176 (2013)
+
+\noindent
+[4] J.-C. Joo, K.-T. Kim, G. Schmalz: On the generalization of Forelli's theorem, Math. Ann. 2016; To be printed.
+
+\noindent
+[5] K.-T. Kim, E. Poletsky, G. Schmalz: Functions holomorphic along holomorphic vector fields, J. Geom. Anal. 19, 655-666 (2009)
+
+}
+
+
+\abs{ Takayuki Koike }{Kyoto University}{
+Higher codimensional Ueda theory for a compact submanifold with unitary 
+flat normal bundle }{
+We pose a higher-codimensional generalization of Ueda's theory on the 
+neighborhood structure of compact complex submanifolds.
+Let $Y$ be a compact complex manifold embedded in a complex manifold 
+with unitary flat normal bundle.
+Our interest is in a sort of the linearizability problem of a 
+neighborhood of $Y$.
+As a higher-codimensional generalization of Ueda's result,
+we give a sufficient condition for the existence of a non-singular 
+holomorphic foliation on a neighborhood of $Y$ which includes $Y$ as a 
+leaf with unitary-linear holonomy.
+We apply this result to the existence problem of a smooth Hermitian 
+metric with semi-positive curvature on a nef line bundle.}
+
+\abs{ Steven Lu }{UQAM}
+{Compact K\"ahler manifolds with
+semi-negative holomorphic curvature }{
+I will talk about a recent joint work
+with G. Heier and B. Wong on the structure of 
+compact complex manifolds with semi-negative
+holomorphic sectional curvature $H$ in relation to
+the abundance conjecture, the latter conjecture
+has just been solved by D. Wu and S.-T. Yau for
+the case $H$ is strictly negative.}
+
+\newpage
+\abs{ Taiji Marugame}{University of Tokyo}{
+Constructions of global CR invariants via Cheng-Yau metric }{ 
+Strictly pseudoconvex domains in a Stein manifold admit a complete 
+K\"ahler-Einstein metric called the Cheng-Yau metric. In this talk, 
+we present two methods of constructing global CR invariants of the 
+boundary using this metric. One is the renormalized Chern-Gauss-Bonnet
+formula, which gives the Burns-Epstein invariant. The other is the 
+volume renormalization, which gives the total $Q$-prime curvature. 
+This is joint work with K. Hirachi and Y. Matsumoto. 
+}
+
+\abs{ Yoshihiko Matsumoto}{Osaka University) }{
+Deformation of Einstein metrics and $L^{2}$ cohomology on strictly pseudoconvex domain }
+{
+Any bounded strictly pseudoconvex domain $\Omega$ of a
+ Stein manifold $Y$ carries a complete K\"{a}hler-Einstein metric of negative scalar curvature, which is unique up to homothety, as shown by Cheng and Yau [2]. I will discuss the fact that this Cheng-Yau metric deforms into a family of Einstein metrics on $\Omega$ parametrized by partially integrable CR structures on the boundary (under the technical assumption that the dimension is at least three); this is a generalization of a work of Biquard [1] on the deformations of the metric of the complex hyperbolic space $\mathbb{CH}^n$. The argument is based on the observation that the Cheng-Yau metric is asymptotically complex hyperbolic (ACH) in a sense, and our new metrics fall into the general class of ACH metrics. The theorem is stated as follows.
+
+\vspace{3mm}
+
+{\bf Theorem. }{\em Let $\Omega$ be a smoothly bounded strictly pseudoconvex domain of a Stein manifold Y of dimension $n\ge 3$. Suppose that $J$ is a partially integrable CR structure on the boundary $\partial\Omega$ suffciently close to the one induced by the complex structure of $Y$ in the $C^{2,\alpha}$-topology. Then there exists an Einstein ACH metric $g$ on $\Omega$ with conformal infinity $J$. The metric $g$ is locally unique modulo the action of diffeomorphisms on $\Omega$ inducing the identity on $\partial\Omega$.} 
+\vspace{3mm}
+ 
+The proof is given by applying the implicit function theorem. The necessary analysis on the linearized Einstein operator of the Cheng-Yau metric can be reduced to a vanishing result of the $L^{2}$ Dolbeault cohomology with values in the holomorphic tangent bundle, which can be shown by utilizing the asymptotic complex hyperbolicity. Details can be found in [3].
+
+\medskip
+
+\noindent{\bf References}
+
+[1] O. Biquard, M\'etriques d'Einstein asymptotiquement sym\'etriques, Ast\'erisque {\bf 265} (2000), vi+109.
+
+[2] S. Y. Cheng and S. T. Yau, On the existence of a complete K\"ahler metric on noncompact complex manifolds and the regularity of Feffermanfs equation, Comm. Pure Appl. Math. 33 (1980) 507--544.
+
+[3] Y. Matsumoto, Deformation of Einstein metrics and $L^{2}$ cohomology on strictly pseudoconvex domains. arXiv:1603.02216}
+
+\abs{ Thibaut Delcroix}{Institute Fourier, Grenoble}{
+ $K$-stability and K\"{a}hler-Einstein metrics on
+spherical varieties }{ 
+Spherical manifolds form a large class of manifolds with a lot of symmetries.
+Examples include toric manifolds, biequivariant group compactifications, homogeneous toric bundles, equivariant compactifications of
+symmetric spaces. I will present a criterion for the existence of 
+K\"{a}hler-Einstein metrics on Fano spherical manifolds involving only their moment
+polytope and valuation cone. Both are classical and central combinatorial
+data in the theory of spherical varieties.
+The criterion is of combinatorial nature and generalizes previously
+known results for subclasses of Fano spherical manifolds, in particular
+the criterion I obtained for group compactifications by the continuity
+method. It allows to obtain new examples of K\"{a}hler-Einstein manifolds,
+examples of Fano manifolds with no K\"{a}hler-Ricci solitons which are not
+$K$-semistable, and examples of Fano manifolds with Picard rank one that
+are not $K$-semistable.
+The proof is obtained via $K$-stability and the equivariant version of
+the Yau-Tian-Donaldson conjecture proved by Datar and Sz\'{e}kelyhidi.}
+
+
+
+
+
+
+\abs{ Dan Popovici }{Toulouse}{Non-K\"{a}hler mirror symmetry of the Iwasawa manifold}{
+This is joint work with Christophe Mourougane. We prove that the 
+Iwasawa manifold, a standard non-K\"ahler nilmanifold of complex dimension 
+ 3, is its own mirror dual in a sense where the standard K\"ahler cone, 
+ that is empty in this case, is replaced by the Gauduchon cone. On the 
+ complex-structure side of the mirror, we define what we call ``the 
+ universal family of essential deformations" of the Iwasawa manifold that 
+ is then shown to have a clear geometric meaning including in terms of the 
+ degeneration at $E_2$ of the Fr\"olicher spectral sequence. We construct 
+ coordinates and Yukawa couplings, as well as a variation of Hodge 
+ structures while implicitly proving a local Torelli theorem. On the metric 
+ side of the mirror, we construct a variation of Hodge structures 
+ parametrised by the complexified Gauduchon cone of the Iwasawa manifold 
+ using the sGG property of all the small deformations of this manifold 
+ proved in an earlier joint work of one of the authors with L. Ugarte. 
+ Finally, we define a mirror map linking the two variations of Hodge 
+ structures and we study its properties.}
+
+\abs{ Xu Wang }{Chalmers}
+{Relative $\bar{\partial}$-complex and its curvature properties }{ 
+We shall show how to use H\"ormander's $L^2$-estimates to study the curvature properties of vector bundles associated to the relative  $\bar{\partial}$-complex. A direct consequence is Yamaguchi's theory on plurisubharmonicity of the Green-operator can be seen as a curvature property of the quotient bundle. Some applications (joint work with Bo Berndtsson) to the curvature properties of the base manifold will also be given.}
+
+\abs{  Katsutoshi Yamanoi }{Osaka Univeristy}{
+Pseudo Kobayashi hyperbolicity of subvarieties of general type on abelian varieties  }{
+Starting from some basic definitions of complex hyperbolic geometry, we discuss a proof of pseudo Kobayashi hyperbolicity of subvarieties of general type on abelian varieties.}
+
+
+
+
+\abs{ 
+Sungmin Yoo}{POSTEC)}{
+ A differential geometric analysis of the Bergman representative map
+}{
+In this talk, I would like to introduce a geometric interpretation of the Bergman representative map. More precisely, I would demonstrate a construction of a locally flat holomorphic affine connection on the holomorphic tangent bundle of a subdomain of a given complex manifold. Its affine exponential map is the inverse of the representative map.
+As an application, I would present the following theorem that is a generalization of Lu Qi-Keng's ball theorem: Suppose that there is a locally isometric (w.r.t. the Bergman metric) holomorphic surjective map from a bounded domain to a complex manifold. If the bounded domain has a pole with respect to the holomorphic connection, then the map is a biholomorphism.}
+
+
+
+\end{document} 

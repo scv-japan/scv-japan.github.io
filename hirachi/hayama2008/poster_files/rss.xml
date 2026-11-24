@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>poster</title>
+    <link>file://localhost/Users/hirachi/Desktop/hayama2008/poster.html</link>
+    <description>poster</description>
+    <item>
+      <title>noguchi60A4</title>
+      <link>file://localhost/Users/hirachi/Desktop/hayama2008/poster.html#0</link>
+      <guid isPermaLink="false">d30217ae-9342-443e-8af7-0d43647d24d8</guid>
+      <enclosure url="file://localhost/Users/hirachi/Desktop/hayama2008/poster_files/Media/noguchi60A4/noguchi60A4.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/hirachi/Desktop/hayama2008/poster_files/Media/noguchi60A4/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/hirachi/Desktop/hayama2008/poster_files/Media/noguchi60A4/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;noguchi60A4&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>fuji300</title>
+      <link>file://localhost/Users/hirachi/Desktop/hayama2008/poster.html#1</link>
+      <guid isPermaLink="false">342f5bc8-251e-4d98-88ce-06e51f3047be</guid>
+      <enclosure url="file://localhost/Users/hirachi/Desktop/hayama2008/poster_files/Media/fuji300/fuji300.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/hirachi/Desktop/hayama2008/poster_files/Media/fuji300/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/hirachi/Desktop/hayama2008/poster_files/Media/fuji300/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_0_0&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;fuji300&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

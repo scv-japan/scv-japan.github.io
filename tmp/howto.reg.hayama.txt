@@ -1,0 +1,22 @@
+葉山　シンポジュウム　オンラインレジストレーション　システムのマニュアル
+
+（１）データ記録用のファイル hayama00.log.data と hayama00.log.form を
+　　　/var/log/ の下に　mod を　rw rw rw  でおく。
+（２）英語版 perl がおいてある場所を perl の実行ファイル hayamareg.pl の
+　　　先頭行に ( 例　#!/usr/bin/perl の様に )　書き込む。 hayamareg.pl と
+       jcode.pl を cgi-bin の場所におく。　例 /home/httpd/cgi-bin/ の下。
+       *.pl ファイルの mod は rxwr x r x にする。
+      また hayamareg.pl に sendmail, nkf, jcode.pl のある場所を記入する。
+（３）新しい、変数を加えるときは、 hayamareg.pl に変数として登録する。
+　　　例、$room = $data{room};
+
+2000年で改良すべき点：
+朝食、昼食、夕食、泊 がメールの返事で、確認できるよう
+にする。
+姓 と 名 が区別できるようにする。
+歓迎会と夕食の明確な区別を与える。歓迎会は夕食を含み。夕食のみの人
+と歓迎会に出る人にする。
+
+
+
+

@@ -1,0 +1,29 @@
+オンライン参加申込使用方法
+
+
+
+(1) hayamareg.pl の一行目に、perl のある場所を書く。
+例
+
+#!/usr/bin/perl
+
+jcode.pl と hayamareg.pl を cgi のある
+directry におく
+
+(2)ログファイル  hayama99.log.data と hayama99.log.form を、
+mod を 666 にして、例えば、/var/log/ におく。
+
+(3) 新たに、入力メニューを増やしたりするときは、新しい変数名を
+作り、例えば、party を新しい変数とするときは
+
+$party = $data{party};
+
+と変数を登録して後、使用する。
+
+(4) html タイプのファイルの最初の部分に、
+  日本語のときは、日本語のコードを明記する
+    CONTENT="text/html;charset=euc-jp">
+  英語のときも
+    CONTENT="text/html;charset=iso-8859-1">
+等記入する。
+

@@ -1,0 +1,612 @@
+\documentclass[12pt]{article}
+
+
+\begin{document}
+
+
+\title{Recent results on the Bergman metric of K\"ahler manifolds}
+\author{Bo-Yong Chen}
+\date{}
+\maketitle
+
+
+1. Let $M$ be a complex $n-$dimensional manifold. Let ${\cal H}$
+be the Hilbert space of holomorphic $n-$forms on $M$ such that
+$|\int_Mf\wedge \bar f|<\infty $. Let $h_0,h_1,\cdots $ be a
+complete orthonormal basis for ${\cal H}$. Then the $2n-$form defined on $%
+M\times M$ given by $B_M=\sum_{j=0}^\infty h_j\wedge \bar h_j$ is
+called the \emph{Bergman kernel form} of $M$. Let
+$(z_1,\cdots,z_n)$ be a local coordinate system in $M$ and let
+$B_M(z)=B_M^{*}(z)dz_1\wedge \cdots \wedge dz_n\wedge d\bar
+z_1\wedge \cdots \wedge d\bar z_n$ where $B_M^{*}$ is a locally
+defined function. Thus $\beta_M :=\partial \bar \partial \log
+B_M^{*}$ is a well-defined
+Hermitian form of bidegree (1,1), whenever $B_M^{*}$ is nonzero. We say that $%
+M $ possesses a \emph{Bergman metric} iff $\beta_M $ is everywhere
+positive definite. The most important fact is that $\beta_M$ is an
+invariant metric.
+
+\bigskip
+
+\emph{Example.} Any complete K\"ahler manifold with a bounded
+continuous strictly psh function carries a Bergman metric.
+
+\bigskip
+
+2. \textbf{Bergman completeness and hyperconvexity}
+
+\bigskip
+
+\textbf{Definition.} A complex manifold $M$ is called hyperconvex
+if there is a smooth strictly psh function $\rho$ on $M$ such that
+$\{x\in M:\rho(x)<c\}\subset\subset M$ for all $c<0$.
+
+\bigskip
+
+\textbf{Theorem} (Blocki-Pflug '98, Herbort '99). \emph{Any
+bounded hyperconvex domain in ${\bf C}^n$ is complete with respect
+to the Bergman metric}.
+
+\bigskip
+
+Our first result is to generalize the above theorem as follows.
+
+\bigskip
+
+\textbf{Theorem 1.} \emph{Any hyperconvex manifold possess a
+complete Bergman metric}.
+
+\bigskip
+
+Let us see some examples of hyperconvex manifolds:
+
+\bigskip
+
+(1) (Ohsawa-Sibony 98') pseudoconvex domains with $C^2$ boundary
+in ${\bf P}^n$;
+
+(2) (Greene-Wu 79') any complete K\"ahler manifold $M$ with a pole
+$o$ such that its sectional curvature ${\rm K}$ is non-positive
+and in addition satisfies
+$$
+{\rm K}\le -\frac{1+\epsilon}{r^2\log r}
+$$
+for some constant $\epsilon>0$ outside a compact subset of $M$,
+where $r$ denotes the distance function based at $o$;
+
+(3) (V$\hat{a}$j$\hat{a}$itu '96) holomorphic fiber bundles whose
+base and fiber are hyperconvex.
+
+\bigskip
+
+3. \textbf{Bergman completeness and holomorphic convexity}.
+
+\bigskip
+
+A well-known theorem of Bremermann ('55) states that any bounded
+Bergman complete domain in ${\bf C}^n$ is holomorphically convex.
+This fact leads S. Kobayashi ('62) to ask the following
+
+\bigskip
+
+\textbf{Question}: \emph{Is a complex manifold holomorphically
+convex if it possess a complete Bergman metric}?
+
+\bigskip
+
+Our second result is to give a counterexample. Namely, we show
+
+\bigskip
+
+\textbf{Theorem 2.} \emph{There is a Bergman complete manifold
+which is not holomorphically convex}.
+
+\bigskip
+
+4. \textbf{Bergman metric on pseudoconvex domains in ${\bf P}^n$}
+
+\bigskip
+
+The following localization principle for the Bergman kernel and
+metric was known for a long time.
+
+\bigskip
+
+\textbf{Theorem} (Ohsawa '81, Diederich-Fornaess-Herbort '84).
+\emph{Let $\Omega\subset\subset {\bf C}^n$ be pseudoconvex. Then
+for any two neighborhoods $V\subset\subset U$ of a boundary point
+$p$ there is a constant $C>0$ such that }
+\begin{eqnarray*}
+B_\Omega(x) & \ge & C \cdot B_{\Omega\cap U
+}(x)\\
+\beta_\Omega(x;X) & \ge & C\cdot \beta_{\Omega\cap U }(x;X)
+\end{eqnarray*}
+\emph{for all $x\in \Omega\cap V$ and $X\in T^{1,0}_x(\Omega)$}.
+
+\bigskip
+
+It is natural to ask on which pseudoconvex domains in ${\bf P}^n$
+the localization principle holds (Notice that the complement of a
+hypersurface in ${\bf P}^n$ is pseudoconvex but the Bergman kernel
+form vanishes). In this direction, Diederich-Ohsawa ('98) proved
+the localization principle for another Bergman kernel (metric)
+which is induced by $L^2$ holomorphic functions with respect to
+the Fubini-Study metric on any pseudoconvex domain in ${\bf P}^n$
+such that the interior of its complement is not empty. Such a
+Bergman metric is \emph{not} an invariant metric.
+
+\bigskip
+
+\textbf{Theorem 3.} \emph{Let $\Omega$ be a pseudoconvex domain
+with $C^2$ boundary in ${\bf P}^n$. Then there is a constant
+$\gamma>0$ such that for any two neighborhoods $V\subset\subset U$
+of a boundary point $p$, one has }
+\begin{eqnarray*}
+|B_\Omega(x)|_{FS} & \ge & C\cdot\frac{|B_{\Omega\cap U
+}(x)|_{FS}}{|\log\delta_\Omega (x)|^{\gamma}}\\
+\beta_\Omega(x;X) & \ge & C\cdot\frac{\beta_{\Omega\cap U
+}(x;X)}{|\log\delta_\Omega (x)|^{\gamma}}
+\end{eqnarray*}
+\emph{for all $x\in \Omega\cap V$ and $X\in T^{1,0}_x(\Omega)$.
+Here $\delta_\Omega$ $($resp. $|\cdot|_{FS})$ denotes the boundary
+distance $($resp. length$)$ w.r.t. the Fubini-Study metric
+$ds_{FS}^2$}.
+
+\bigskip
+
+Combining Theorem 3 with the Ohsawa-Takegoshi extension theorem,
+we obtain
+
+\bigskip
+
+\textbf{Corollary.}
+$$
+|B_\Omega(x)|_{FS}  \ge  C\cdot
+\delta_\Omega(x)^{-2}|\log\delta_\Omega|^{-\gamma}.
+$$
+
+\bigskip
+
+We mention that Theorem 3 can not be generalized to an arbitrary
+fat pseudoconvex domain in ${\bf P}^n$ as the following example
+shows.
+
+\bigskip
+
+\emph{Example.} We consider the following domain
+$$
+\Omega=\{[z_0,z_1,z_2]\in {\bf P}^2:|z_1|<|z_0|\}
+$$
+where $(z_0,z_1,z_2)$ denote homogeneous coordinates in ${\bf
+P}^2$. Note that $\Omega$ is biholomorphic to the product of the
+unit disc and the complex plane via
+$$
+\zeta_1=z_1/z_0,\ \zeta_2=z_2/z_0.
+$$
+Hence $\Omega$ is a fat pseudoconvex domain in ${\bf P}^n$ but the
+Bergman metric is degenerate.
+
+\bigskip
+
+However, the estimate of the Bergman metric in Theorem 3 does not
+imply the completeness. On the other hand, Diederich-Ohsawa ('95)
+proved that the Bergman distance for a bounded $C^2$ pseudoconvex
+domain in ${\bf C}^n$ has a lower bound of a constant multiple
+$\log|\log\delta_\Omega|$. It was improved by Blocki (02') to
+$|\log \delta_\Omega|/\log|\log \delta_\Omega|$.
+
+\bigskip
+
+\textbf{Theorem 4.} \emph{Let $\Omega\subset {\bf P}^n$ be a
+pseudoconvex domain with $C^2$ boundary. Then the Bergman distance
+satisfies the following estimate:}
+\[
+{\rm dist}_\Omega (x_0,x)\ge \frac{C|\log\delta_\Omega(x)|}{\log
+|\log \delta_\Omega (x)|}.
+\]
+
+\bigskip
+
+5. \textbf{Sketch of proofs of theorems}
+
+\bigskip
+
+S. Kobayashi ('59, '62) proved that a complex manifold is Bergman
+complete if the following condition is verified:
+
+\bigskip
+
+{\bf KC}. {\em Let $M$ be a complex manifold which
+possesses a Bergman metric. Assume that there exists a dense subspace ${\cal %
+H}^{\prime }$ of ${\cal H}$ such that for any $f\in {\cal
+H}^{\prime }$ and for any sequence of points $\{y_k\}_{k=1}^\infty
+$ of $M$ which has no adherent point in $M$, there is a
+subsequence $\{y_{k_j}\}_{j=1}^\infty $ such that}
+\[
+\ \lim_{j\rightarrow \infty }\frac{f(y_{k_j})\wedge \bar f(y_{k_j})}{%
+B_M(y_{k_j})}=0.
+\]
+
+
+\bigskip
+
+It should be pointed out that W. Zwonek ('02) gave an example
+which is Bergman complete but does not satisfy KC.
+
+\bigskip
+
+Let $g_M(\cdot,y)$ be the \emph{pluricomplex Green function} on
+$M$, i.e.,
+\[ g_M(x,y)=\sup \{u(x)\}
+\]
+where the superum is taken over all negative functions $u\in
+PSH(M)$ satisfying the property that the function $u-\log |z|$ is
+bounded from above in a deleted
+neighborhood of $y$ for some holomorphic local coordinates $z$ centered at $%
+y $, that is, $z(y)=0$. It satisfies the following property:
+
+(1) $F:M\rightarrow M'$ biholomorphic$\Longrightarrow
+g_M(x,y)=g_M(F(x),F(y))$;
+
+(2) $M$ Stein, $\Omega\subset\subset M$
+hyperconvex$\Longrightarrow (dd^c g_\Omega(\cdot,y))^n=(2\pi)^n
+\delta_y$.
+
+\bigskip
+
+\emph{Proof of Theorem 1}.
+
+i) The following Chern-Levine-Nirenberg type inequality due to
+Blocki will play an important role:
+
+\bigskip
+
+\textbf{Proposition 5}. \emph{ Suppose $M$ is a complex manifold
+and $\Omega\subset\subset M$ has $C^\infty$ boundary. Assume that
+$u,v\in C^\infty(\overline{\Omega})$ are non-positive psh
+functions such that $u|_{\partial \Omega}=0$. Then }
+$$
+\int_\Omega |u|^n (dd^c v)^n\le n! \|v\|_\infty^{n-1} \int_\Omega
+|v|(dd^c u)^n.
+$$
+
+\bigskip
+
+ii) By the above proposition, one has
+$$
+\int_M |g_M(\cdot,y)|^n (dd^c\rho)^n\le n! (2\pi)^n |\rho(y)|.
+$$
+
+iii) Let $f\in ${\em ${\cal H}$ }and {\em $\{y_k\}_{k=1}^\infty $
+}be a sequence of points{\em \ }which has no adherent point in
+$M$. By using the Donnelly-Fefferman $L^2$ estimate in such a way
+as in T. Ohsawa's works, one can show
+$$
+\frac{f(y_{k})\wedge \bar f(y_{k})}{B_M(y_{k})}\leq C \left|
+\int_{\{g_M(\cdot,y_k)<-1\}}f\wedge
+ \overline{f}\right|.
+$$
+To verify KC, it suffices to prove that the latter tends to zero
+as $k\rightarrow \infty$.
+
+iv) For any $\epsilon>0$, there exists $M_\epsilon\subset\subset M
+$ so that
+$$
+\left|\int_{M\backslash M_\epsilon}f\wedge
+\bar{f}\right|<\epsilon.
+$$
+Notice that
+\begin{eqnarray*}
+\int_{M_\epsilon\cap \{g_M(\cdot,y_k)<-1\}} (dd^c\rho)^n &\le &
+\int_M
+|g_M(\cdot,y_k)|^n (dd^c\rho)^n\\
+&\le & n! (2\pi)^n |\rho(y_k)|.
+\end{eqnarray*}
+This shows that one can choose a $k_\epsilon$ such that for all
+$k>k_\epsilon$,
+$$
+\left|\int_{M_\epsilon\cap \{g_M(\cdot,y_k)<-1\}} f\wedge \bar{f}
+\right|\le \sup_{M_\epsilon}\left|\frac{f\wedge \bar{f}}{(dd^c
+\rho )^n}\right|\cdot \int_{M_\epsilon\cap \{g_M(\cdot,y_k)<-1\}}
+(dd^c\rho)^n<\epsilon.
+$$
+
+\bigskip
+
+\emph{Construction of the counterexample}
+
+\bigskip
+
+Let  $(L,h)$ be a holomorphic Hermitian line bundle over a
+K\"ahler manifold $M$. Consider the Grauert tube:
+$$
+T(L,h)=\{w\in L:|w|_h<1\}.
+$$
+
+Let $S$ be a holomorphic $(n+1)-$form on $T(L,h)$. Locally,
+$S=f(z,w)dz_1\wedge\cdots\wedge dz_n\wedge dw$ with
+$f(z,w)=\sum_{j=0}^\infty f_j(z)w^j$. For each $j$, $f_j$ can be
+viewed as a local representation of some holomorphic section $s_j$
+of the adjoint line bundle $K_M+(j+1)L^\ast$. Notice that the
+intersection of $T(L,h)$ with a fiber is the disk
+$|w|^2<e^{-\varphi}$ and
+$$
+\frac{\sqrt{-1}}{2(j+1)\pi}\int_{|w|^2<e^{-\varphi}}|w^j|^2
+dw\wedge d\bar{w}=e^{-(j+1)\varphi}
+$$
+if we write $h=e^{\varphi}$ locally. Therefore, if $S$ is $L^2$ on
+$T(L,h)$, then $s_j$ belongs to
+\begin{eqnarray*}
+&& H^2(M,K_M+(j+1)L^\ast)\\
+& = & \left\{s\in H^0(M,K_M+(j+1)L^\ast):\int_M |s|^2_{\omega^\ast
+h^{-j-1}}dV_\omega<+\infty\right\}
+\end{eqnarray*}
+and
+\begin{equation}
+\left|\int_{T(L,h)}S\wedge \bar{S}\right|=\sum_{j=0}^\infty
+2(j+1)\pi\|s_j\|^2_{(j+1)}.
+\end{equation}
+Here $\omega^\ast$ is the Hermitian metric on $K_M$ induced by
+$\omega$ and $\|\cdot\|_{(j+1)}$ denotes the $L^2$ norm of
+$H^2(M,K_M+(j+1)L^\ast)$. Such an observation goes back to Grauert
+('62). Hence
+
+\bigskip
+
+\textbf{Proposition 6.} \emph{Suppose}
+
+(i) \emph{$K_M+L^\ast$ is very ample in $H^2(M,K_M+L^\ast)$};
+
+(ii) \emph{$K_M+2L^\ast$ is base point free in
+$H^2(M,K_M+2L^\ast)$.}
+
+\emph{Then $T(L,h)$ carries a Bergman metric.}
+
+\bigskip
+
+
+(1) reduces the verification of KC to certain adjoint line bundle
+convexity of the base manifold. For example, the following holds:
+
+\bigskip
+
+\textbf{Proposition 7.} \emph{Let $(M,\omega)$ be a complete
+K\"ahler manifold with injectivity radius $\tau>0$ and sectional
+curvature $\le b^2$. Suppose there is a negative line bundle
+$\pi:L\rightarrow M$ such that the curvature $ i\Theta(h)\le -
+c\,\omega$ where $c$ is a positive constant. Then there is a
+positive integer $m_0$ such that $T(mL,h^m)$ carries a complete
+Bergman metric for all $m\ge m_0$.}
+
+\bigskip
+
+\emph{Proof.} Let $p_k=(z_k,w_k)\in T(mL,h^m)$. For each $L^2$
+holomorphic $(n+1)$ form $S$ on $T(mL,h^m)$, one can associate it
+with a sequence of sections $s_j\in H^2(M,K_M+(j+1)L^\ast)$. By
+Hessian comparison theorem and $L^2$ estimate, one can construct
+another section $\tilde{s}_j$ for each $j$ such that
+$\tilde{s}_j(z_k)=s_j(z_k)$ and
+$$
+\|\tilde{s}_j\|_{(j+1)}\le C \|s_j\|_{B(z_k,\tau)}
+$$
+provided $m$ sufficiently large. Here $C$ is independent of $j,k$.
+The local representations of $\{\tilde{s}_j\}$ give a holomorphic
+$(n+1)$ form $\tilde{S}$ on $T(mL,h^m)$ with
+$\tilde{S}(p_k)=S(p_k)$ and
+$$
+\|\tilde{S}\|\le C'|\int_{\pi^{-1}(B(z_k,\tau))} S\wedge \bar{S}|,
+$$
+thus verifies KC since $B(p_k)\ge \tilde{S}\wedge
+\bar{\tilde{S}}(p_k)/\|\tilde{S}\|^2$.
+
+\bigskip
+
+Now let $p:M\rightarrow X$ be a holomorphic covering over a
+projective manifold $X$. It is easy to verify that
+$M,p^\ast(\omega),p^\ast(L)$ satisfy the condition of Proposition
+2 , where $\omega$ is a K\"ahler metric of $X$ and $L$ is a
+negative line bundle over $X$.
+
+The counterexample can be constructed by the following classical
+example: consider the Abelian variety ${\bf C}^2/\Lambda$ where
+$\Lambda$ is the lattice generated by the elements
+$(1,0),\,(0,1),\,(a,0)$ and $(0,b)$ over ${\bf Z}$ for complex
+numbers $a,\,b$. Let $\tilde{\Lambda}$ be the subgroup of
+$\Lambda$ generated by $(1,0),\,(0,1),\,(a,b)$ over ${\bf Z}$.
+Note that ${\bf C}^2/\tilde{\Lambda}$ is a covering of ${\bf
+C}^2/\Lambda$ while the latter is biholomorphic to the product of
+one dimensional complex tori. It is easy to show that every
+holomorphic function on ${\bf C}^2/\tilde{\Lambda}$ must be
+constant provided $1,\,a,\,b$ are linearly independent over ${\bf
+Z}$. One only needs to take $M={\bf C}^2/\tilde{\Lambda}$.
+
+\bigskip
+
+A well-known theorem of Siu states that very Stein submanifold of
+a complex manifold has a Stein neighborhood. In fact, one can say
+more
+
+\bigskip
+
+\textbf{Theorem 8}. \emph{Every Stein submanifold of a complex
+manifold has a Stein neighborhood which carries a complete Bergman
+metric.}
+
+\bigskip
+
+\emph{Proof of Theorem 3}
+
+\bigskip
+
+The difficulty lies in that it is not known whether there is a
+bounded strictly psh function in a neighborhood of $\partial
+\Omega$. However, Ohsawa-Sibony ('98) showed that there exists a
+smooth and strictly psh function $\rho:\Omega\rightarrow (-1,0)$
+such that $|\rho|\approx \delta^\tau_\Omega$ for some $0<\tau< 1$
+and
+$$
+\partial\bar{\partial}\rho\ge C |\rho| ds^2_{FS}.
+$$
+This function plays an essential role in the construction of
+certain weight function.
+
+\bigskip
+
+i) Given $y\in \Omega$, set
+\begin{eqnarray*}
+\phi_y & = & \kappa(d_{FS}(x,y))\log d_{FS}(x,y)-1\\
+ \varphi _y & =
+& \chi \left( \log (-\log (-\rho ))-\log (-\log (-\rho
+(y)))\right)\phi_y.
+\end{eqnarray*}
+Then $\varphi _y-\log (-\phi_y)-b\log (-\rho )$ is psh for
+suitable large constant $b$.
+
+\bigskip
+
+ii) By using patching $\rho$ to the above psh function, one can
+construct a candidate function for the extreme problem of
+$g_\Omega$ so that
+$$
+g_\Omega(x,y)>-\frac{c\rho(x)}{\rho(y)}\cdot|\log(-\rho(y))|
+$$
+for any $x,y\in \Omega$ with $|\rho(x)|\le |\rho(y)|/2$.
+
+\bigskip
+
+iii) By a technique coming from the pluripotential theory due to
+Blocki and Herbort, one has
+\begin{eqnarray*}
+&& \{g_\Omega(x,y)<-1\}\\
+&\subset & \{C^{-1}|\rho(y)|\cdot|\log (-\rho(y))|^{-1}\le
+|\rho(x)|\le C |\rho(y)|\cdot|\log(-\rho(y))|^n\}
+\end{eqnarray*}
+It should be mentioned that while using this technique, a
+difficulty arise: unlike the case ${\bf C}^n$, there does not
+necessary exist parallel transformations on manifolds. That is the
+reason why the theorem can not be generalized to complex manifolds
+with positive holomorphic bisectional curvature.
+
+\bigskip
+
+iv) Set
+$\tilde{\epsilon}=C^{-1}|\rho(y)|\cdot|\log(-\rho(y))|^{-1}$ and
+$\Omega_{\tilde{\epsilon}}=\{x\in
+\Omega:|\rho(x)|>\tilde{\epsilon}\}$. Set
+\begin{eqnarray*}
+\tilde{\lambda}_y &= & \varphi_y-\log(-\phi_y)-b\log(-\rho)+b\log
+\tilde{\epsilon}\\
+\psi_y &= & \max\{\tilde{\lambda}_y,g_\Omega(\cdot,y)\}.
+\end{eqnarray*}
+$\psi_y$ a negative psh function $\psi_y$ with a log pole at $y$
+such that
+$$
+\psi_y(x) \ge   -c-b\log|\log(-\rho(y))|, \ \forall\, x\in
+\{\psi_y<-1\}\backslash B(y,r)
+$$
+where $r,b,c$ are independent of $y$ and $B(y,r)$ denotes the
+geodesic ball.
+
+\bigskip
+
+vi) Use the following $L^2$ estimate
+
+\bigskip
+
+{\bf Theorem} (Diederich-Ohsawa '95, Berndtsson-Charpentier '00).
+{\em Let $M$ be a Stein manifold. Let $\varphi ,\psi $ be psh
+functions such that $r\partial \bar
+\partial \psi \ge
+\partial \psi \bar \partial \psi $ holds in the sense of distribution for some $0<r<1$. Then for any
+$\bar \partial-$closed $(n,1)$ form $v$ with $\int_M|v|_{\partial
+\bar
+\partial (\varphi +\psi )}^2e^{\psi -\varphi}<+\infty$, there exists an $(n,0)$ form $u$ on
+$M$ so that $\bar
+\partial u=v$ and}
+\[
+\left| \int_Mu\wedge \bar ue^{\psi -\varphi }\right| \le
+C_r\int_M|v|_{\partial \bar \partial (\varphi +\psi )}^2e^{\psi
+-\varphi }.
+\]
+
+\bigskip
+
+We apply this theorem with
+$\psi=-\frac12\log(-\rho),\,\varphi=2n\psi_y-\log(-\psi_y+1)+\psi$
+to solve
+$$
+\bar{\partial}u=\bar{\partial}(\lambda \left( -\log
+(-\psi_y+1)+\log 2\right) \kappa (d_{FS}(\cdot,y)/2r)f),
+$$
+and obtain an $F\in {\cal H}(\Omega_{\tilde{\epsilon}})$ with
+$F(y)=f(y)$ and
+$$
+\|F\|\le C(\log\delta_\Omega)^\gamma \|f\|.
+$$
+
+\bigskip
+
+
+vii) Since $\{g_\Omega(\cdot,y)<-1\}\subset
+\Omega_{\tilde{\epsilon}}$, by using the above $L^2$ estimate
+again, we extend $F$ to $\Omega$.
+
+\bigskip
+
+6. \textbf{An open problem}
+
+\bigskip
+
+A domain $\Omega$ in a complex manifold is called locally
+hyperconvex if for each $p\in \Omega$ there is a neighborhood $U$
+of $p$ so that $\Omega\cap U$ is hyperconvex.
+
+Diederich and Ohsawa ('98) constructed a locally hyperconvex
+domain in ${\bf P}^n$ which is not hyperconvex.
+
+\bigskip
+
+\textbf{Question.} \emph{Does a locally hyperconvex domain in
+${\bf P}^n$ carry a complete Bergman metric}?
+
+
+\begin{thebibliography}{99}
+\bibitem{2}  B. Berndtsson and Ph. Charpentier, {\em A Sobolev mapping
+property of the Bergman kernel}, Math. Z. {\bf 235} (2000), 1--10.
+
+\bibitem{}  Z. Blocki, {\em Estimates for the complex Monge-Ampere operator}%
+, Bull. Pol. Acad. Sci. {\bf 41} (1993), 151--157.
+
+\bibitem{}  ----------, \emph{The Bergman metric and the pluricomplex Green
+function}, MPI (Leipzig) preprint no: 85 (2002).
+
+\bibitem{1}  Z. Blocki and P. Pflug, {\em Hyperconvexity and Bergman
+completeness}, Nagoya Math. J. {\bf 151} (1998), 221--225.
+
+\bibitem{} B. Y. Chen, \emph{Bergman completeness of hyperconvex
+manifolds}, preprint.
+
+\bibitem{} ----------, \emph{On certain K\"ahler manifolds which possess a Bergman
+metric}, preprint.
+
+\bibitem{} ----------, \emph{On Bergman metric of pseudoconvex domains in a complex projective space}, preprint.
+
+\bibitem{}  K. Diederich and T. Ohsawa, {\em An estimate for the Bergman
+distance on pseudoconvex domains}, Ann. of Math. {\bf 141} (1995),
+181--190.
+
+\bibitem{} ----------, \emph{On pseudoconvex domains in ${\bf
+P}^n$}, Tokyo J. Math. {\bf 21} (1998), 353--358.
+
+\bibitem{10}  G. Herbort, {\em The Bergman metric on hyperconvex domains},
+Math. Z. {\bf 232} (1999), 183--196.
+
+
+\bibitem{}  S. Kobayashi, {\em On complete Bergman metrics}, Proc. Amer. Math.
+Soc. {\bf 13} (1962), 511--513.
+
+\bibitem{} T. Ohsawa and N. Sibony, \emph{Bounded p.s.h. functions and
+pseudoconvexity in K\"ahler manifolds}, Nagoya Math. J. {\bf 149}
+(1998), 1--8.
+\end{thebibliography}
+\end{document}

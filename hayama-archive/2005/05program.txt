@@ -1,0 +1,54 @@
+
+12/18
+ 15:45--16:35Å@Å@A. Fujiki   (Osaka)
+  Compact non-kaehler threefolds associated to hyperbolic 3-manifolds
+ 16:40--17:30       N. Honda (TIT)
+  Explicit example of Moishezon twister spaces and their minitwister 
+  spaces
+ 17:40--18:30        J. Duval (Toulouse)
+   Singularities of Ahlfors currents
+
+ 12/19
+ 9:00--9:50            M. Saito (RIMS)
+    Multiplier ideals and b-function
+ 10:00--10:50       H. Gaussier (Marseille)
+  Some study of strictly pseudoconvex domains in almost complex 
+  manifolds
+ 11:00--11:50       G. Dloussky (Marseille)
+  On a classification of non-kahlerian surfaces
+ 14:00--14:50       H. De Thelin (Orsay)
+  Saddle measures for holomorphic endomorphisms of CP^2
+ 15:00--15:50       K. Hirachi (Tokyo)
+  Fefferman-Graham metric for even dimensional conformal structures
+ 16:00--16:50       G.  Marinescu (Frankfurt)
+  Asymptotic expansion of the Bergman kernel on non-compact manifolds
+ 17:00--17:50       X. Ma (Ecole Polytechnique)
+  Bergman kernel and geometric quantization
+
+ 12/20
+ 9:00--9:50            J. Noguchi (Tokyo)
+  Recent progress in the theory of holomorphic curves
+ 10:00--10:50        S. Cho (Busan)
+  Extension of CR structures on three dimensional compact pseudoconvex 
+  CR manifolds
+ 11:00--11:50        H.W. Lu (Tongji)
+ The dimension of the automorphic forms of n-ball
+ 14:00--14:50        M. Englis (Prag)
+  Harmonic and pluriharmonic Berezin transforms
+ 15:00--15:50        H.J. Lee (POSTECH)
+  The logarithmic singularities of the Bergman kernels for tube 
+  domains
+ 16:00--16:50        S. Fu (Camden)
+   Hearing the type of a domain in C^2 with the d-bar-Neumann 
+   Laplacian
+ 17:00--17:50        Y. Ishii (Kyushu)
+   Invariants for holomorphic/rational dynamics: a survey
+
+ 12/21
+ 8:45--9:35          R. Ponge (Tokyo)
+    Analogues of the holomorphic Morse inequalities in CR geometry
+ 9:40--10:30          G. Francsics (Michgan State)
+    Spectral analysis on complex hyperbolic spaces
+ 10:40--11:30        M. Suzuki(Kyushu)
+    A survey of late Professor T. Nishino's work
+    (in Japanese)

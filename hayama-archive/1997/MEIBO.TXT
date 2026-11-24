@@ -1,0 +1,82 @@
+名前              e-mail                              所属
+------------------------------------------------------------------------------------------------------------------------
+ANDRE Yves        andre@math.jussieu.fr               CNRS (Paris)/JSPS (Chiba University)
+Bernhard Runge    runge@math.uni-mannheim.de          Universitaet Mannheim
+Giorgio Patrizio  Patrizio@UDINI.MATH.UNIFI.IT        Dipartimento di Matematica "U. Dini" Universita' di Firenze - Italy
+Ian Graham        graham@math.utoronto.ca             University of Toronto
+Jean-Pierre Rosay jrosay@math.wisc.edu                University of Wisconsin
+Kang-Tae Kim      kimkt@postech.ac.kr                 Department of Mathematics Pohang Univ of Sci & Tech
+Noboru Okada      n-okada@mm.sophia.ac.jp             Department of mathmatics, Sophia university
+Shigeru Takamura  takamura@mpim-bonn.mpg.de           Max-Planck-Institute for Mathematics
+Steven Shin-Yi Lu slu@math.uwaterloo.ca               University of Waterloo
+Yoshida Mamoru    myoshida@ssat.fukuoka-u.ac.jp       Fukuoka University (Department of Applied Mathematics)
+阿部幸隆          abe@sci.toyama-u.ac.jp              富山大学理学部数学教室
+阿部誠            abe@c.oshima-k.ac.jp                大島商船高等専門学校
+愛甲正            aikou@sci.kagoshima-u.ac.jp         鹿児島大学理学部数理情報科学科
+安達謙三          k-adachi@net.nagasaki-u.ac.jp       長崎大学教育学部数学教室
+奥間智弘          okuma@nat.gunma-ct.ac.jp            群馬工業高等専門学校 一般教科(自然科学)
+翁林              weng@math.sci.osaka-u.ac.jp         大阪大学理学研究科数学教室
+加藤満生          mkato@edu.u-ryukyu.ac.jp            琉球大学教育学部
+吉川謙一          yosikawa@math.nagoya-u.ac.jp        名古屋大学・多元数理科学研究科
+宮嶋公夫          miyajima@sci.kagoshima-u.ac.jp      鹿児島大学理学部数理情報科学科
+宮澤一久          miyazawa@math.nagoya-u.ac.jp        名古屋大学 大学院 多元数理科学研究科 博士課程
+金丸忠義          kanemaru@gpo.kumamoto-u.ac.jp       熊本大学教育学部
+金坂尚礼          kanesaka@math.tsukuba.ac.jp         筑波大学大学院数学研究科 D2
+金大圭            kim@math.kyushu-u.ac.jp             九州大学大学院数理学研究科
+古島幹雄          furusima@mis.hiroshima-u.ac.jp      広島大学総合科学部
+呉春英            guest1@rcmath.rc.kyushu-u.ac.jp     九州大学数理学研究科六本松分室 韓国科学財団派遣研究員
+公田藏            jk5o-kut@asahi-net.or.jp            専任なし
+高橋世知子        sechiko@cc.nara-wu.ac.jp            奈良女子大学 理学部
+高橋正            takahasi@kobe-u.ac.jp               神戸大学発達科学部
+高山茂晴          taka@math.sci.osaka-u.ac.jp         大阪大学 大学院理学研究科 数学専攻
+佐藤晃一          r960102d@eds.ecip.nagoya-u-ac.jp    名古屋大学大学院多元数理科学研究科
+山岸義和          yg@math.ryukoku.ac.jp               龍谷大学 理工学部 数理情報学科
+山口博史          yamaguch@sue.shiga-u.ac.jp          滋賀大学 教育学部
+志賀弘典          shiga@math.s.chiba-u.ac.jp          千葉大学理学部
+児玉秋雄          kodama@kappa.s.kanazawa-u.ac.jp     金沢大学理学部計算科学科
+寺田俊明          terada@belle.shiga-med.ac.jp        滋賀医科大学
+若林功            wakaba@ge.seikei.ac.jp              成蹊大学工学部
+小木曽啓示        oguiso@ms.u-tokyo.ac.jp             Department of Mathematical Sciences University of Tokyo
+小林正史          masashi@ms.u-tokyo.ac.jp            東大数理 D3
+松島敏夫          matsush@ishikawa-nct.ac.jp          石川工業高等専門学校 一般教育科
+松本和子          kazuko@appmath.osaka-wu.ac.jp       大阪女子大学 学芸学部 応用数学科
+松野高典          matsuno@ipc.osaka-pct.ac.jp         大阪府立高専 一般教養科 期限付講師
+上田哲生          ueda@math.h.kyoto-u.ac.jp           京都大学総合人間学部 基礎科学科数理科学教室
+城崎学            mshiro@ms.osakafu-u.ac.jp           大阪府立大学工学部数理工学教室
+神保敏弥          jimbo@nara-edu.ac.jpd               奈良教育大学
+神本丈            joe@sci.kumamoto-u.ac.jp            熊本大学 大学院自然科学研究科
+西原賢            mr-nisi@fit.ac.jp                   福岡工業大学 情報工学部 情報工学科
+西村保一郎        mat001@art.osaka-med.ac.jp          大阪医科大学
+石本純大          ishimoto@math.sci.osaka-u.ac.jp     大阪大学理学研究科
+赤堀隆夫          akahorit@sci.himeji-tech.ac.jp      姫路工業大学理学部
+川又雄二郎        kawamata@ms.u-tokyo.ac.jp           東大・数理
+相原義弘          aihara@la.numazu-ct.ac.jp           沼津高専
+太田友明          ohta@math.kyushu-u.ac.jp            九州大学大学院数理学研究科
+大沢健夫          ohsawa@math.nagoya-u.ac.jp          名古屋大学大学院多元数理科学研究科
+大内重樹          ouchi@math.titech.ac.jp             東京工業大学大学院 理工学研究科 数学専攻 博士後期課程2年
+竹腰見昭          kensho@math.wani.osaka-u.ac.jp      大阪大学大学院理学研究科 数学教室
+竹内茂            takeuchi@cc.gifu-u.ac.jp            岐阜大学教育学部数学教室
+中山昇            nakayama@kurims.kyoto-u.ac.jp       京都大学数理解析研究所
+辻元              tsuji@math.titech.ac.jp             東京工業大学理学部
+辻美輝            tsuji@rcmath.rc.kyushu-u.ac.jp      九州大学大学院数理学研究科数理学専攻
+田原伸彦          tahara@math.s.kobe-u.ac.jp          神戸大学大学院自然科学研究科 博士前期課程1年
+渡辺公夫          kimio@math.tsukuba.ac.jp            筑波大学数学系
+渡邉清            watanabe@math.s.kobe-u.ac.jp        神戸大 理
+都丸正            ttomaru@sb.gunma-u.ac.jp            群馬大学医学部保健学科
+土橋宏康          tsuchi@math.tohoku-gakuin.ac.jp     東北学院大学教養学部
+東川和夫          azuk@sci.toyama-u.ac.jp             富山大学理学部
+藤本坦孝          fujimoto@kappa.s.kanazawa-u.ac.jp   金沢大学理学部
+藤木明            fujiki@math.sci.osaka-u.ac.jp       大阪大学理学研究科
+日向隆幸          t-hyuga@math.nagoya-u.ac.jp         名古屋大学大学院多元数理科学研究科
+梅野高司          umeno@ip.kyusan-u.ac.jp             九州産業大学国際文化学部
+泊昌孝            tomari@kenroku.ipc.kanazawa-u.ac.jp 金沢大学理学部
+風間英明          kazama@rc.kyushu-u.ac.jp            九州大学数理学研究科六本松分室
+平地健吾          hirachi@math.sci.osaka-u.ac.jp      大阪大学大学院理学研究科
+本田竜広          honda@ariake-nct.ac.jp              有明工業高専 (Ariake NCT)
+満渕俊樹          mabuchi@math.wani.osaka-u.ac.jp     大阪大学理学研究科数学教室
+野口潤次郎        noguchi@math.titech.ac.jp           東京工業大学理学部数学教室
+李暁東            xli@math.kyushu-u.ac.jp             九州大学大学院数理学研究科
+林本厚志          ahayashi@math.nagoya-u.ac.jp        名古屋大学大学院多元数理科学研究科
+鈴木昌和          suzuki@math.kyushu-u.ac.jp          九州大学数理学研究科
+鈴木正昭          msuzuki@sci.toyama-u.ac.jp          富山大学理学部数学教室
+濱田英隆          hamada@kyukyo-u.ac.jp               九州共立大学工学部 Faculty of Engineering Kyushu Kyoritsu University

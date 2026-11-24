@@ -1,0 +1,24 @@
+nkf -e wsscvreg.pl > temp.txt
+cp temp.txt /r/dumpty/www/cgi-bin/wsscvreg.pl
+
+nkf -e wsscv00.htm > temp.txt
+cp temp.txt pub/html/wsscv00.htm
+
+nkf -e wsscv01.htm > temp.txt
+cp temp.txt pub/html/wsscv01.htm
+
+nkf -e wsscv02.htm > temp.txt
+cp temp.txt pub/html/wsscv02.htm
+
+nkf -e wsscv03.htm > temp.txt
+cp temp.txt pub/html/wsscv03.htm
+
+nkf -e wsscv04.htm > temp.txt
+cp temp.txt pub/html/wsscv04.htm
+
+nkf -e wsscv05.htm > temp.txt
+cp temp.txt pub/html/wsscv05.htm
+
+rm temp.txt
+
+cp pub/html/wsscv00.htm pub/html/index.html

@@ -1,0 +1,38 @@
+/* ::::: http://www.shonan-village.co.jp/svc/styles.css ::::: */
+
+/* ::::: http://www.shonan-village.co.jp/~shonanvillage/mtsc/mt-static//othermenu.css ::::: */
+
+body { color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 12px; margin: 0px; }
+a:link { color: rgb(51, 51, 153); text-decoration: none; }
+a:visited { color: rgb(102, 153, 204); text-decoration: none; }
+a:active { color: rgb(153, 204, 255); text-decoration: none; }
+a:hover { color: rgb(153, 204, 255); text-decoration: none; }
+img { border: 0pt none; }
+table#main { width: 950px; margin: 0pt 0pt 0px; padding: 0px; border: 0px none; text-align: left; }
+table#main td { border: 0px none; margin: 0px; padding: 0px; }
+table#main td#maincontents { width: 900px; margin: 0px; padding: 0px; }
+table#main td#leftgrade { width: 50px; background-image: url('leftgrade.gif'); background-repeat: repeat-y; margin: 0px; padding: 0px; }
+table#logotop { width: 900px; padding: 5px; }
+#toplogojapanese a { margin-right: 10px; display: block; width: 80px; height: 20px; background-image: url('japanese.gif'); background-repeat: no-repeat; text-indent: -9999px; }
+#toiawaseform a { display: block; width: 186px; height: 66px; background-image: url('toiawaseform.gif'); background-repeat: no-repeat; text-indent: -9999px; margin: 0px 0px 20px; }
+table#inmain td.blueborder01 { background-color: rgb(198, 238, 255); height: 2px; }
+table#inmain td#menuphoto { width: 900px; height: 237px; background-image: url('mainphoto.jpg'); background-repeat: no-repeat; background-color: rgb(255, 255, 255); padding-bottom: 0px; }
+table#mainmenu { width: 850px; height: 35px; }
+#menu_01 a { margin: 0px; display: block; width: 161px; height: 35px; background-image: url('menu_01.gif'); background-repeat: no-repeat; text-indent: -9999px; }
+#menu_01 a:hover { margin: 0px; display: block; width: 161px; height: 35px; background-image: url('menu_01.gif'); background-repeat: no-repeat; background-position: 0px -35px; text-indent: -9999px; }
+#menu_02 a { margin: 0px; display: block; width: 147px; height: 35px; background-image: url('menu_02.gif'); background-repeat: no-repeat; text-indent: -9999px; }
+#menu_02 a:hover { margin: 0px; display: block; width: 147px; height: 35px; background-image: url('menu_02.gif'); background-repeat: no-repeat; background-position: 0px -35px; text-indent: -9999px; }
+#menu_03 a { margin: 0px; display: block; width: 151px; height: 35px; background-image: url('menu_03.gif'); background-repeat: no-repeat; text-indent: -9999px; }
+#menu_03 a:hover { margin: 0px; display: block; width: 151px; height: 35px; background-image: url('menu_03.gif'); background-repeat: no-repeat; background-position: 0px -35px; text-indent: -9999px; }
+#menu_04 a { margin: 0px; display: block; width: 140px; height: 35px; background-image: url('menu_04.gif'); background-repeat: no-repeat; text-indent: -9999px; }
+#menu_04 a:hover { margin: 0px; display: block; width: 140px; height: 35px; background-image: url('menu_04.gif'); background-repeat: no-repeat; background-position: 0px -35px; text-indent: -9999px; }
+#menu_05 a { margin: 0px; display: block; width: 136px; height: 35px; background-image: url('menu_05.gif'); background-repeat: no-repeat; text-indent: -9999px; }
+#menu_05 a:hover { margin: 0px; display: block; width: 136px; height: 35px; background-image: url('menu_05.gif'); background-repeat: no-repeat; background-position: 0px -35px; text-indent: -9999px; }
+#menu_06 a { margin: 0px; display: block; width: 115px; height: 35px; background-image: url('menu_06.gif'); background-repeat: no-repeat; text-indent: -9999px; }
+#menu_06 a:hover { margin: 0px; display: block; width: 115px; height: 35px; background-image: url('menu_06.gif'); background-repeat: no-repeat; background-position: 0px -35px; text-indent: -9999px; }
+table#inmain td#bottomcontents { height: 80px; padding-top: 10px; padding-right: 20px; font-size: 10px; border-bottom: 1px solid rgb(204, 204, 204); background-image: url('bottombg.jpg'); background-repeat: no-repeat; }
+table#centercontents2 { margin: 20px; }
+table#iconpart { width: 540px; padding: 2px; }
+table#iconpart td { text-align: left; font-size: 12px; line-height: 2; padding: 2px; }
+/* ::::: http://www.shonan-village.co.jp/svc/othermenu.css ::::: */
+

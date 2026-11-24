@@ -1,0 +1,59 @@
+           List of speakers and titles ( Updated on October 21, 1999 )
+
+Y. Aihara ( Numazu College of Technology ):　
+  Finiteness theorems for meromorphic mappings under the condition 
+  on the preimages of divisors
+
+M. Abate ( University of Rome ):　TBA
+
+E. Bedford ( Indiana University ):　TBA 
+
+S. Cho ( Sogang University):  TBA
+
+C.　Diederich ( University of Wuppertal ):  TBA
+
+C. Epstein ( University of Pennsilvania ) :  
+  Filling pseudoconcave holes 
+
+N. Honda ( Hiroshima University ):
+  Meromorphicity of actions on compact twistor spaces　
+
+A. Futaki（Tokyo Institut of Technology）: 
+  A character of the automorphism group associated with  K\"{a}hler classes
+
+M. Jonsson ( University of Michigan )：
+  Saddle type behavior for holomorphic mappings of P^2
+
+W.Klingenberg ( Humboldt University of Berlin ):  
+  Flow of real hypersurfaces by the trace of the Levi form,
+
+G. Komatsu ( Osaka University ):  
+  Sobolev-Bergman kernels in strictly pseudoconvex domains
+  ( the case of negative order )
+
+C. Laurent ( Institut Fourier ):  TBA
+
+K. Miyazawa ( Nagoya University):  
+  On the n-completeness of coverings of proper families of　analytic spaces 
+
+N. Mok( University of Hong Kong ): 
+  Rigidity under K\"ahler Deformation of certain Rational Homogeneous  
+  Manifolds of Picard Number 1
+
+T. Ohsawa ( Nagoya University ):  TBA
+
+K. Maekawa ( Kyoto University ):
+   On shift-like mappings of dynamical degree golden ratio of C^3　
+
+Y. T. Siu ( Harvard University ):  TBA
+ 
+Vo-Van Tan ( Suffolk University ):   
+  An analogue of Hartshorne & Serre problem for 1-convex surfaces
+
+M. Tomari ( Kanazawa University ）:  
+  Plurigenera of normal isolated singularities and  filtered blowing-ups, 
+
+I. H. Tsai ( National Taiwan University ):   
+  Finiteness and effective bounds in birational geometry
+
+J. Winkelmann ( University of Basel):  TBA

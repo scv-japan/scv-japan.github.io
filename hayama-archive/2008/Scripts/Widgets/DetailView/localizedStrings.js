@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Back to Album']='アルバムへ戻る';strings['Download']='ダウンロード';strings['Previous']='前へ';strings['Next']='次へ';strings['Play Slideshow']='スライドショーを再生';RegisterWidgetStrings("com-apple-iweb-widget-detailview",strings);})();

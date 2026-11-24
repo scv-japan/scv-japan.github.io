@@ -1,0 +1,10 @@
+http://www.las.osakafu-u.ac.jp/~kazuko/hayama2009/	index
+http://www.las.osakafu-u.ac.jp/~kazuko/hayama2009/index.html	default
+http://www.las.osakafu-u.ac.jp/~kazuko/hayama2009/index-j.html	index-j
+http://www.ms.u-tokyo.ac.jp/~hirachi/watercolors/	default_001
+http://www.shonan-village.co.jp/svc/	default_002
+http://www.shonan-village.co.jp/svc/access.html	access
+http://www.las.osakafu-u.ac.jp/~kazuko/hayama2009/program.html	program
+http://www.las.osakafu-u.ac.jp/~kazuko/hayama2009/outside.html	outside
+http://www.ms.u-tokyo.ac.jp/~hirachi/scv/hayama/	default_003
+http://www.ms.u-tokyo.ac.jp/~hirachi/scv/	default_004

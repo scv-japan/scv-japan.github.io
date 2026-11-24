@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos</title>
+    <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html</link>
+    <description>Photos</description>
+    <item>
+      <title>group1</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#0</link>
+      <guid isPermaLink="false">acfc6533-ccf3-447e-b2f3-a294b0e099e3</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0026/DSCF0026.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0026/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0026/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;group1&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>group2</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#1</link>
+      <guid isPermaLink="false">83286903-7e2b-4575-b908-ed9fd735e861</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0029/DSCF0029.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0029/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0029/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;group2&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>group3</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#2</link>
+      <guid isPermaLink="false">fb51147b-f56d-4afd-8b5c-9d549e86fc4b</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0031/DSCF0031.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0031/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0031/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;group3&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0002</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#3</link>
+      <guid isPermaLink="false">e2ef416d-5a84-438d-ab4e-381443bf5f06</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0002/DSCF0002.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0002/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0002/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0002&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0001</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#4</link>
+      <guid isPermaLink="false">cdde3a84-03f4-4096-b313-c12a1f3d77db</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0001/DSCF0001.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0001/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0001/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0001&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0005</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#5</link>
+      <guid isPermaLink="false">7d12d197-235d-4eee-a968-966aef1c4765</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0005/DSC_0005.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0005/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0005/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0005&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0014</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#6</link>
+      <guid isPermaLink="false">66ca5917-be93-448a-859b-6aef5f0e56fa</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0014/DSC_0014.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0014/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0014/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0014&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0020</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#7</link>
+      <guid isPermaLink="false">05c99814-3115-40d5-a93f-13af03ef51f8</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0020/DSC_0020.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0020/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0020/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0020&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0030</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#8</link>
+      <guid isPermaLink="false">73b98ace-a4c5-47b3-9ec8-d1b08ce45411</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0030/DSC_0030.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0030/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0030/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0030&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0021</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#9</link>
+      <guid isPermaLink="false">ff2134a5-5820-4d28-8f9b-2e184d3c6fda</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0021/DSC_0021.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0021/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0021/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0021&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0033</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#10</link>
+      <guid isPermaLink="false">9882b88c-3d81-418e-a9cb-aabc63eba715</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0033/DSC_0033.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0033/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0033/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0033&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0035</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#11</link>
+      <guid isPermaLink="false">2d652fb6-14c3-469a-998f-40ed0f02bb2e</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0035/DSC_0035.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0035/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0035/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0035&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0037</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#12</link>
+      <guid isPermaLink="false">e95617f9-7f02-4f30-a569-e47e08804e72</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0037/DSC_0037.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0037/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0037/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0037&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0050</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#13</link>
+      <guid isPermaLink="false">7e2edde7-6bfb-47da-96c2-949c6a2901ec</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0050/DSC_0050.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0050/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0050/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0050&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0051</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#14</link>
+      <guid isPermaLink="false">e9bffe34-4356-4728-b3c4-0874297687d8</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0051/DSC_0051.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0051/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0051/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0051&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0060</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#15</link>
+      <guid isPermaLink="false">d7fa0498-dacc-45b8-a170-143a9b5f9c31</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0060/DSC_0060.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0060/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0060/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0060&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0063</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#16</link>
+      <guid isPermaLink="false">346d75eb-e358-426a-a61f-bc95347e76bf</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0063/DSC_0063.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0063/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0063/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0063&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0069</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#17</link>
+      <guid isPermaLink="false">5a154ce7-5864-4637-81e7-2bb71775a244</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0069/DSC_0069.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0069/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0069/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0069&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0071</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#18</link>
+      <guid isPermaLink="false">f7591bea-3389-4954-8e24-391110c691f5</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0071/DSC_0071.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0071/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0071/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0071&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0077</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#19</link>
+      <guid isPermaLink="false">e92450d8-deee-46f0-ba26-760937051ea8</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0077/DSC_0077.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0077/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0077/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0077&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0082</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#20</link>
+      <guid isPermaLink="false">6e3aa9cf-10e4-453f-b34b-2967592e579e</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0082/DSC_0082.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0082/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0082/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0082&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0091</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#21</link>
+      <guid isPermaLink="false">f501c706-e637-4cf0-8f89-297b5ca27793</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0091/DSC_0091.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0091/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0091/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0091&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0095</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#22</link>
+      <guid isPermaLink="false">6992a3e2-da85-4dea-9f46-247f14a483d4</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0095/DSC_0095.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0095/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0095/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0095&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0101</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#23</link>
+      <guid isPermaLink="false">2015d0f8-7615-4fe8-8e0f-7cc373acc655</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0101/DSC_0101.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0101/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0101/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0101&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0103</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#24</link>
+      <guid isPermaLink="false">e1db492b-6751-43d9-ba55-a09f4159edc2</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0103/DSC_0103.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0103/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0103/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0103&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0106</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#25</link>
+      <guid isPermaLink="false">ce7e1bbd-1956-476a-93b0-f21e1ae86d12</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0106/DSC_0106.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0106/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0106/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0106&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0114</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#26</link>
+      <guid isPermaLink="false">e919c110-a642-43e0-889d-f16f6a23cdd0</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0114/DSC_0114.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0114/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0114/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0114&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0117</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#27</link>
+      <guid isPermaLink="false">b4ce1503-1cfe-42d5-babc-f8d5820dfb1a</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0117/DSC_0117.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0117/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0117/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0117&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0016</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#28</link>
+      <guid isPermaLink="false">ad4e4bb2-778b-491f-a172-a3ea42ea35a9</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0016/DSCF0016.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0016/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0016/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0016&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0017</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#29</link>
+      <guid isPermaLink="false">486be85e-a6a6-48f4-8ff3-0f5642c8eea7</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0017/DSCF0017.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0017/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0017/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0017&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0123</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#30</link>
+      <guid isPermaLink="false">81cfc60f-996f-4a6c-9127-15a9267f900c</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0123/DSC_0123.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0123/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0123/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0123&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0128</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#31</link>
+      <guid isPermaLink="false">417065c8-c219-4f3b-975c-045c0cd34752</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0128/DSC_0128.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0128/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0128/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0128&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0131</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#32</link>
+      <guid isPermaLink="false">e4b9fec3-f403-46a8-8ab8-27c4d9135a0f</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0131/DSC_0131.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0131/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0131/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0131&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0137</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#33</link>
+      <guid isPermaLink="false">26f1bfa9-e203-4602-b746-2cb96312024f</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0137/DSC_0137.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0137/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0137/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0137&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0140</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#34</link>
+      <guid isPermaLink="false">4d442ae8-ca2c-48b6-ac7f-bb49b2b40cc5</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0140/DSC_0140.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0140/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0140/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0140&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0145</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#35</link>
+      <guid isPermaLink="false">fa8c7e1c-9805-4ada-801d-0f95d168613b</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0145/DSC_0145.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0145/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0145/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0145&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0148</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#36</link>
+      <guid isPermaLink="false">02de4f54-da8d-4901-b6dc-354140795079</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0148/DSC_0148.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0148/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0148/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0148&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0149</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#37</link>
+      <guid isPermaLink="false">7c514ca9-7dd5-4e2c-9911-5aec988fc5d6</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0149/DSC_0149.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0149/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0149/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0149&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0152</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#38</link>
+      <guid isPermaLink="false">02828f49-703c-48ea-a36f-e07de22adf53</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0152/DSC_0152.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0152/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0152/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0152&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0156</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#39</link>
+      <guid isPermaLink="false">94ee5639-1955-43a0-980f-5e7f8e061014</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0156/DSC_0156.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0156/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0156/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0156&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0023</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#40</link>
+      <guid isPermaLink="false">09f3a6c0-6ddc-4cfb-a272-661f64eb2454</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0023/DSCF0023.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0023/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0023/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0023&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0024</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#41</link>
+      <guid isPermaLink="false">cce018bf-b7d5-483a-b9aa-7520d5b808b0</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0024/DSCF0024.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0024/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0024/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0024&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0161</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#42</link>
+      <guid isPermaLink="false">7853ba3b-328b-4715-a407-5ae5179d775b</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0161/DSC_0161.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0161/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0161/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0161&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0162</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#43</link>
+      <guid isPermaLink="false">6be6e677-5a2d-4253-8d6d-21be7ff831fa</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0162/DSC_0162.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0162/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0162/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0162&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0166</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#44</link>
+      <guid isPermaLink="false">e2869772-a111-44ac-8d8e-a41c10ab391e</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0166/DSC_0166.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0166/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0166/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0166&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0167</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#45</link>
+      <guid isPermaLink="false">5aec1ff5-6730-4460-a719-cbab41270d2e</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0167/DSC_0167.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0167/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0167/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0167&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSC_0172</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#46</link>
+      <guid isPermaLink="false">a668b257-16d4-4948-ba6b-65f0d748d12c</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0172/DSC_0172.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0172/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSC_0172/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSC_0172&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0032</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#47</link>
+      <guid isPermaLink="false">a5676619-df91-47c4-9b28-77ff8654f6d3</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0032/DSCF0032.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0032/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0032/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0032&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0033</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#48</link>
+      <guid isPermaLink="false">1364dcae-511e-48ba-940c-644f8a28225f</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0033/DSCF0033.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0033/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0033/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0033&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0034</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#49</link>
+      <guid isPermaLink="false">45396955-ed69-495d-a761-64df3fd87666</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0034/DSCF0034.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0034/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0034/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0034&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0035</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#50</link>
+      <guid isPermaLink="false">d5687dab-c8c5-4b14-a659-26cc72ec6a29</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0035/DSCF0035.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0035/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0035/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0035&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>DSCF0036</title>
+      <link>file://localhost/Users/kengo/Desktop/hayama2008/Photos.html#51</link>
+      <guid isPermaLink="false">acaf2f16-eee0-4421-a69b-378c23cf5f68</guid>
+      <enclosure url="file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0036/DSCF0036.jpg" length="0" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0036/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/kengo/Desktop/hayama2008/Photos_files/Media/DSCF0036/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;DSCF0036&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

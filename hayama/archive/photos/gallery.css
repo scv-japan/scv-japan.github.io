@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: #232323;
+  background: #fff;
+  font: 1rem/1.5 system-ui, sans-serif;
+}
+
+main {
+  width: min(100%, 2448px);
+  margin-inline: auto;
+  padding: clamp(8px, 2vw, 24px);
+}
+
+a {
+  color: #245a8f;
+}
+
+h1 {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  line-height: 1.2;
+}
+
+h1 span {
+  display: block;
+  margin-top: .35em;
+  font-size: .65em;
+  font-weight: 500;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.25rem;
+}
+
+section {
+  margin-block: 2rem;
+}
+
+h2 {
+  margin: 0 0 .5rem;
+}
+
+.photos {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(4px, 1vw, 12px);
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.photos a {
+  display: block;
+  cursor: zoom-in;
+}
+
+.photos img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background: #f3f3f3;
+}
+
+dialog {
+  --dialog-padding: clamp(6px, 1vw, 12px);
+  border: 0;
+  padding: 0;
+  width: calc(var(--photo-width) + 2 * var(--dialog-padding));
+  max-width: calc(100vw - 16px);
+  max-height: calc(100dvh - 16px);
+  overflow: auto;
+}
+
+dialog::backdrop {
+  background: rgb(0 0 0 / 80%);
+}
+
+html:has(dialog[open]) {
+  overflow: hidden;
+}
+
+.photo-controls {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: .35rem 1rem;
+  padding: var(--dialog-padding);
+  background: #fff;
+}
+
+#photo-title {
+  margin-right: auto;
+}
+
+dialog img {
+  display: block;
+  width: calc(100% - 2 * var(--dialog-padding));
+  height: auto;
+  margin: 0 auto var(--dialog-padding);
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid #245a8f;
+  outline-offset: 2px;
+}
